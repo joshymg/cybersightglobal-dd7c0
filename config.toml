@@ -118,7 +118,7 @@ url = "service"
 weight = 1
 
 [[menu.service]]
-name = "webdesign"
+name = "consulting"
 url = "service"
 weight = 2
 
