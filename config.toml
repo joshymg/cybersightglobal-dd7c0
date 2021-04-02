@@ -48,7 +48,7 @@ heading = "We help brands grow securely"
 description = "Incident response and Remediation, Infrastructure Vulnerability assessment & Penetration Testing, Web application Security assessment, IoT and embedded systems security assessment, Mobile (iOS/Android) Application Security assessment, Cloud Services security assessment, Insider threat analytic , Security Planning, Security Configuration Review, Application source code reviews, Omni-Channel security training and events, Customised Solutions"
 button = true
 btnText = "Know More"
-btnURL = "https://cybersightglobal.com/"
+btnURL = "https://cybersightglobal.com/service"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
