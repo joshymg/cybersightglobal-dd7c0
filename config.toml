@@ -113,7 +113,7 @@ url = "contact"
 weight = 6
 
 [[menu.service]]
-name = "graphicdesign"
+name = "Incident response"
 url = "service"
 weight = 1
 
