@@ -1,7 +1,9 @@
 enable: true
 topTitle: LITTLE MORE BRIEF
 title: About Us.
-subtitle: We provide the critical oversight for your digital assets and infrastructure
+subtitle: >-
+  services offered by CyberSightGlobal, an IT security consultancy.We provide
+  the critical oversight for your digital assets and infrastructure
 tabItem:
   - id: philosophy
     title: Our Philosophy
