@@ -45,7 +45,7 @@ footerSubscribeTitle = "Subscribe"
 [Languages.en.params.hero]
 enable = true
 heading = "We help brands grow securely"
-description = "Penetration Testing |::|   Incident response |::| "
+description = "Penetration Testing |::|   Incident response |::|  "
 button = true
 btnText = "Know More"
 btnURL = "https://cybersightglobal.com/service"
