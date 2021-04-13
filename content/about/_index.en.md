@@ -2,5 +2,5 @@
 title: About Us ...
 date: '2018-07-07T12:37:52+06:00'
 draft: false
-description: 'About the services offered by CyberSightGlobal, an IT security consultnacy in '
+description: 'About the services offered by CyberSightGlobal, an IT security consultancy'
 ---
