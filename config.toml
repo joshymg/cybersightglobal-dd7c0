@@ -1,4 +1,4 @@
-baseURL = "https://"
+baseURL = "https://cybersightglobal.com"
 languageCode = "en-us"
 title = "CyberSight Global : Cyber security"
 theme = "navigator hugo"
