@@ -2,7 +2,7 @@ enable: true
 topTitle: LITTLE MORE BRIEF
 title: About Us.
 subtitle: >-
-  services offered by CyberSightGlobal, an IT security consultancy.We provide
+  Services offered by CyberSightGlobal, an IT security consultancy.We provide
   the critical oversight for your digital assets and infrastructure
 tabItem:
   - id: philosophy
