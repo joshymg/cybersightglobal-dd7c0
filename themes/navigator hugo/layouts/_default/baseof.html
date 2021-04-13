@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-
+     {{ partial "preloader.html" . }}
 {{- partial "head.html" . -}}
     <body id="body">
         {{- partial "header.html" . -}}
