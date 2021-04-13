@@ -55,8 +55,7 @@ videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [Languages.en.params.aboutSm]
 enable = true
 title = "We provide the critical oversight for your digital assets and infrastructure"
-description = "Incident response and Remediation, Infrastructure Vulnerability assessment & Penetration Testing, Web application Security assessment
-, IoT and embedded systems security assessment
+description = "Incident response and Remediation, Infrastructure Vulnerability assessment & Penetration Testing, Web application Security assessment, IoT and embedded systems security assessment
 Mobile (iOS/Android) Application Security assessment
 Cloud Services security assessment
 Insider threat analytic 
