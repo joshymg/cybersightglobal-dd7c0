@@ -31,7 +31,7 @@ description = "Services offered by CyberSightGlobal, an IT security consultancy.
 [Languages.en]
 weight = 2
 languageCode = "en-us"
-title = "CyberSight Global : Cyber Security"
+title = "CyberSight Global : Cyber Security delivered"
 dateFormat = "January 2, 2006"
 home = "Home"
 logo = "images/logo.png"
@@ -40,11 +40,11 @@ footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit 
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
+footerSubscribeTitle = "Subscribe Newsletter"
 
 [Languages.en.params.hero]
 enable = true
-heading = "We help brands grow securely"
+heading = "We help brands grow securely."
 description = """ 
 PENETRATION TESTING 
 INCIDENT RESPONSE
@@ -57,7 +57,7 @@ videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 [Languages.en.params.aboutSm]
 enable = true
-title = "We provide the critical oversight for your digital assets and infrastructure"
+title = "Delivering the critical oversight for your digital assets and infrastructure"
 description = """Incident response and Remediation 
 Infrastructure Vulnerability assessment & Penetration Testing, 
 Web application Security assessment \t IoT and embedded systems security assessment, 
@@ -68,7 +68,7 @@ Omni-Channel security training and events \t Customised Solutions"""
 
 [Languages.en.params.blog]
 enable = true
-topTitle = "OUR CYBER STORY"
+topTitle = "OUR STORY"
 title = "Blog."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
