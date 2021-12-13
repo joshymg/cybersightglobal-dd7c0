@@ -70,7 +70,7 @@ Omni-Channel security training and events \t Customised Solutions"""
 enable = true
 topTitle = "OUR STORY"
 title = "Blog."
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+subtitle = "Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 [Languages.en.params.contact]
 enable = true
